@@ -32,7 +32,7 @@ end writeToFile
 
 
 tell application "Notes"
-	activate
+	-- activate
 	--	set exportFolder to choose folder
 	set exportFolder to "Macintosh HD:Users:mortenjust:Google Drive:Backups:notes:"
 	--	display alert exportFolder
